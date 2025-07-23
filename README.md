@@ -1,6 +1,7 @@
 # 🎬 Movie Budget vs. Revenue Analysis
 
 This project was created by a **software development student** exploring **Data Analysis with Python**. It investigates the relationship between movie production budgets and worldwide revenue using real-world data. The goal is to apply data wrangling, visualization, and regression modeling techniques in a practical project.
+
 This project was build with AppBrewery Course
 
 ---
