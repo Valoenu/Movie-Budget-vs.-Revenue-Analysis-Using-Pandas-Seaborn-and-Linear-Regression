@@ -22,7 +22,7 @@ df.dropna()  # Remove rows with missing values (returns new DataFrame, not in-pl
 
 df[df.duplicated().values.any()]  # Check if any rows are duplicated (Incorrect usage, will be corrected below)
 
-Rows_duplicated = df[df.duplicated()]  # Store duplicated rows
+rows_duplicated = df[df.duplicated()]  # Store duplicated rows
 
 df.dtypes  # Check data types of each column
 
